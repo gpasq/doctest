@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/gpasq/doctest/edit/gh-page
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+```
+curl --location --request GET 'http://localhost:3000/connect/2.0/hello'
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
